@@ -1,0 +1,25 @@
+html{
+	background-color: #000;
+}
+
+body{
+}
+
+.myname {
+	font-size: 65px;
+	color: #8000FF;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	letter-spacing:2px;
+	position:fixed;
+	top:250px;
+	left:40px;
+}
+
+.myname2 {
+	font-size: 65px;
+	color: #8000FF;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	position:fixed;
+	top:310px;
+	left:40px;
+}
