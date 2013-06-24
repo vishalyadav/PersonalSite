@@ -2,24 +2,50 @@ html{
 	background-color: #000;
 }
 
-body{
-}
-
 .myname {
 	font-size: 65px;
 	color: #8000FF;
 	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+}
+
+#firstname {
 	letter-spacing:2px;
-	position:fixed;
+	position:absolute;
 	top:250px;
 	left:40px;
 }
 
-.myname2 {
-	font-size: 65px;
-	color: #8000FF;
-	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+#lastname {
 	position:fixed;
 	top:310px;
 	left:40px;
+}
+
+.navbox {
+	color: #848484;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 35px;
+	border-style: outset;
+	border-color: #6E6E6E;
+}
+
+#about {
+	padding:25px 39px;
+	position:absolute;
+	top: 80px;
+	left: 340px;
+}
+
+#projects {
+	padding:25px;
+	position:absolute;
+	top: 273px;
+	left: 340px;
+}
+
+#contact {
+	padding:25px 27px;	
+	position:absolute;
+	top: 466px;
+	left: 340px;
 }
